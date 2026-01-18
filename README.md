@@ -1,16 +1,45 @@
-# medical_app
+# 🩺 Medicine Reminder App (Flutter)
 
-A new Flutter project.
+A simple and reliable **Medicine Reminder mobile application** built using **Flutter**.  
+The app allows users to schedule medicine reminders and receive notifications at the correct time, even when the app is running in the background.
 
-## Getting Started
+This project focuses on clean architecture, local data persistence, and background notifications using Flutter best practices.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add medicines with:
+  - Medicine name
+  - Dose information
+  - Reminder time
+- View all scheduled medicines in a time-sorted list
+- Local notifications for medicine reminders
+- Works in the background
+- Clean and minimal UI using **Teal theme** with **Orange accents**
+- Persistent local storage (data remains after app restart)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Provider** – state management
+- **Hive** – local database
+- **flutter_local_notifications** – alarm and notifications
+- **timezone** – accurate scheduling
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Android Studio or VS Code
+- Android device or emulator
+
+---
+
+
+
