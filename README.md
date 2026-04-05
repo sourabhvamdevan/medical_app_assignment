@@ -1,4 +1,11 @@
-# 🩺 Medicine Reminder App (Flutter)
+#  Medicine Reminder App (Flutter)
+![Flutter](https://img.shields.io/badge/Flutter-App-blue?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Programming-0175C2?logo=dart&logoColor=white)
+![State](https://img.shields.io/badge/State-Provider-purple)
+![Database](https://img.shields.io/badge/Database-Hive-yellow?logo=hive&logoColor=black)
+![Notifications](https://img.shields.io/badge/Notifications-Local-red)
+![Persistence](https://img.shields.io/badge/Data-Persistent-success)
+
 
 A simple and reliable **Medicine Reminder mobile application** built using **Flutter**.  
 The app allows users to schedule medicine reminders and receive notifications at the correct time, even when the app is running in the background.
@@ -7,7 +14,7 @@ This project focuses on clean architecture, local data persistence, and backgrou
 
 ---
 
-## ✨ Features
+##  Features
 
 - Add medicines with:
   - Medicine name
@@ -21,7 +28,7 @@ This project focuses on clean architecture, local data persistence, and backgrou
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Flutter**
 - **Provider** – state management
@@ -31,7 +38,7 @@ This project focuses on clean architecture, local data persistence, and backgrou
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
